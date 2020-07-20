@@ -1,6 +1,6 @@
 # fitnx
 
-A new Flutter project.
+A new Flutter project. Developing a fitness tools and resources platform.
 
 ## Getting Started
 
